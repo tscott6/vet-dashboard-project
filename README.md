@@ -3,7 +3,7 @@
 
 ### Demonstration Video:
 Download video at:  
-https://github.com/Software-Engineering-Courses-Moshirpour/final-project-uofeng607-000/tree/main/Demo
+https://github.com/tscott6/vet-dashboard-project/blob/main/Demo
 
 View on Youtube at:  
 https://youtu.be/2vBsS3F8-rg
